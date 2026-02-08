@@ -39,11 +39,6 @@ with st.sidebar:
         *Intérêt : Doit être placé là où la vue est la plus dégagée.*
         """)
 
-    st.markdown("---")
-    st.markdown("### Légende")
-    st.markdown("🟦 **Voiture** | 🟥 **Moto**")
-    st.markdown("🟨 **Bus** | 🟩 **Camion**")
-
 
 # LOGIQUE DE COMPTAGE (CLASSES)
 class TrafficCounter:
