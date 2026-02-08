@@ -1,4 +1,4 @@
-# 🚦 Système Intelligent de Comptage de Trafic
+#  Système Intelligent de Comptage de Trafic
 
 <p align="center">
   <img src="demo-traffic.gif" width="600" alt="Démo Traffic Counter">
@@ -22,8 +22,8 @@ L'objectif est d'extraire des données statistiques exploitables à partir de fl
 * **Classification Intelligente :** Identification précise basée sur le dataset COCO (Voitures, Motos, Bus, Camions).
 * **Suivi Persistant :** Chaque véhicule possède un ID unique pour éviter les doublons lors du comptage.
 * **Dashboard Dynamique :** * Réglage du seuil de confiance (Confidence Score) en direct.
-* Positionnement ajustable de la ligne de comptage.
-* Statistiques (KPIs) mises à jour en temps réel.
+    * Positionnement ajustable de la ligne de comptage.
+    * Statistiques (KPIs) mises à jour en temps réel.
 
 
 * **Feedback Visuel :** Changement de couleur de la ligne lors du franchissement et tracé des trajectoires.
